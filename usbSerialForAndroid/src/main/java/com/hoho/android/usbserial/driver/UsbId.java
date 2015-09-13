@@ -42,6 +42,7 @@ public final class UsbId {
     public static final int ARDUINO_UNO = 0x0001;
     public static final int ARDUINO_MEGA_2560 = 0x0010;
     public static final int ARDUINO_SERIAL_ADAPTER = 0x003b;
+    public static final int ARDUINO_DUE = 0x003d;
     public static final int ARDUINO_MEGA_ADK = 0x003f;
     public static final int ARDUINO_MEGA_2560_R3 = 0x0042;
     public static final int ARDUINO_UNO_R3 = 0x0043;
